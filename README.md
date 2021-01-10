@@ -14,3 +14,7 @@ $ git push heroku master
 $ heroku ps:scale web=1
 
 ```
+
+Heroku app link:
+
+https://data-app-shin.herokuapp.com/
